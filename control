@@ -1,0 +1,9 @@
+Package: com.oops.wxlongvideo
+Name: 微信无限小视频
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: 解除微信小视频6秒限制!
+Maintainer: Mr.wings
+Author: Mr.wings
+Section: Tweaks
