@@ -1,4 +1,4 @@
-# wxlongvideo
+# wxlongvideo(微信无限小视频)
 Unlimited WeChat Short Video(More than 6 seconds, available for lower 6.2 version)
 
 #### 插件描述
